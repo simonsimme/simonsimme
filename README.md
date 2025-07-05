@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Simon 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Coder+of+Functional+Languages;Java+%7C+Erlang+%7C+Haskell+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Coder+of+Functional+Languages; Java+%7C+Erlang+%7C+Haskell+%7C+Python" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,7 +38,6 @@
 ### 📫 Connect with Me
 
 - 🌐 [simonsimme.linkedin]([https://github.com/simonsimme](https://www.linkedin.com/in/simon-johansson-software-genius/))
-- 
 - ✉️ Contact me anytime :)
 
 ---
