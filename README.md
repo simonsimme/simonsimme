@@ -21,7 +21,7 @@
 
 - 🎓 CS graduate with a passion for **concurrent systems** and **type-safe programming**
 
-- 💬 Fluent in Java, Erlang, Haskell, Dafny, Python — and sarcasm 😄
+- 💬 Fluent in Java, Erlang, Haskell, Dafny, Python, and sarcasm 😄
 
 ---
 
