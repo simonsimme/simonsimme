@@ -29,16 +29,26 @@
 
 ---
 
-#[![trophy](https://github-profile-trophy.vercel.app/?username=simonsimme&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+## 🧰 Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-B83998?style=flat-square&logo=erlang&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dafny](https://img.shields.io/badge/Dafny-cccccc?style=flat-square)
 
 
 ---
 
 ### 📫 Connect with Me
 
+- 📍 Based in [Gothenburg, Sweden]
 - 🌐 [simonsimme.linkedin]([https://github.com/simonsimme](https://www.linkedin.com/in/simon-johansson-software-genius/))
-- ✉️ Contact me anytime :)
+- 💬 Open to full-time roles, internships, or research collaborations
 
 ---
 
 _Thanks for visiting! ⭐️_
+
+#[![trophy](https://github-profile-trophy.vercel.app/?username=simonsimme&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
