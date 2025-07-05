@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-johansson-software-genius/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    
   </a>
-  <a href="mailto:simon@email.com">
-    <img src="https://img.shields.io/badge/Email-simon@email.com-red?style=flat-square&logo=gmail" />
+  <a href="mailto:simonsimme@hotmail.se">
+    <img src="https://img.shields.io/badge/Email-simonsimme@hotmail.se-red?style=flat-square&logo=gmail" />
   </a>
 </p>
 
@@ -17,21 +17,11 @@
 
 ## 🧠 About Me
 
-- 🎓 CS graduate with a passion for **concurrent systems** and **type-safe programming**
-- 💡 Obsessed with **elegant code**, **tools that prove things**, and **performance**
-- 🧪 Strong believer in **Erlang-style fault tolerance** and **pure functional design**
-- 🔭 Currently exploring **compiler design**, **DSLs**, and **software verification**
+- 🎓 CS student with a passion for **concurrent systems** and **type-safe programming**
 - 💬 Fluent in Java, Erlang, Haskell, Dafny, Python — and sarcasm 😄
 
 ---
 
-## 🛠️ Featured Projects
-
-- 🧰 **[Concurrency Playground](https://github.com/simonsimme/concurrency-playground)** — Java + Erlang hybrid exploring message-passing and actors
-- 📐 **[VerifiedSort](https://github.com/simonsimme/verified-sort)** — Sorting algorithms formally verified using Dafny
-- 🔧 **[LambdaLang](https://github.com/simonsimme/lambdalang)** — Tiny Haskell-inspired DSL for scripting tasks
-
----
 
 ## 🧰 Languages & Tools
 
