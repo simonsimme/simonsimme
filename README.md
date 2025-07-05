@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Simon 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Functional+Programming+Lover;Java%20|%20Erlang%20|%20Haskell%20|%20Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Functional+Programming+Lover;Java%20|%20Haskell%20|%20Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-johansson-software-genius/">
-    
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:simonsimme@hotmail.se">
-    <img src="https://img.shields.io/badge/Email-simonsimme@hotmail.se-red?style=flat-square&logo=gmail" />
+  <a href="mailto:simon@email.com">
+    <img src="https://img.shields.io/badge/Email-simon@email.com-red?style=flat-square&logo=gmail" />
   </a>
 </p>
 
@@ -17,11 +17,19 @@
 
 ## 🧠 About Me
 
-- 🎓 CS student with a passion for **concurrent systems** and **type-safe programming**
+- 🎓 CS graduate with a passion for **concurrent systems** and **type-safe programming**
+
 - 💬 Fluent in Java, Erlang, Haskell, Dafny, Python — and sarcasm 😄
 
 ---
 
+## 🛠️ Featured Projects
+
+- 🧰 **[Concurrency Playground](https://github.com/simonsimme/concurrency-playground)** — Java + Erlang hybrid exploring message-passing and actors
+- 📐 **[VerifiedSort](https://github.com/simonsimme/verified-sort)** — Sorting algorithms formally verified using Dafny
+- 🔧 **[LambdaLang](https://github.com/simonsimme/lambdalang)** — Tiny Haskell-inspired DSL for scripting tasks
+
+---
 
 ## 🧰 Languages & Tools
 
