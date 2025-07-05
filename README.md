@@ -15,9 +15,7 @@
 
 ---
 
-<a href="https://github.com/simonsimme/github-profile-3d-contrib">
-  <img src="profile-3d-contrib/profile-green-animate.svg" />
-</a>
+
 
 ## 🧠 About Me
 
@@ -53,6 +51,11 @@
 
 ![Simon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonsimme&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonsimme&layout=compact&theme=tokyonight)
+
+
+<a href="https://github.com/simonsimme/github-profile-3d-contrib">
+  <img src="profile-3d-contrib/profile-gitblock.svg" />
+</a>
 
 </div>
 
