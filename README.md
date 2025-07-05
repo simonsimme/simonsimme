@@ -15,6 +15,10 @@
 
 ---
 
+<a href="https://github.com/simonsimme/github-profile-3d-contrib">
+  <img src="https://github.com/simonsimme/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</a>
+
 ## 🧠 About Me
 
 - 🎓 CS graduate with a passion for **concurrent systems** and **type-safe programming**
