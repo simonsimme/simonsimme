@@ -45,7 +45,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-[![Simon’s GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=simonsimme&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 
 
