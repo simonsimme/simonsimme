@@ -29,11 +29,8 @@
 
 ---
 
-### 💻 Tech Stack
+#[![trophy](https://github-profile-trophy.vercel.app/?username=simonsimme&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 💛 Java, Erlang, Haskell, Python, Dafny
-- 🛠️ VS Code, IntelliJ, Git
-- 🎯 Focused on clean code, FP principles, and elegant tooling
 
 ---
 
