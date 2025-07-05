@@ -54,7 +54,7 @@
 
 
 <a href="https://github.com/simonsimme/github-profile-3d-contrib">
-  <img src="profile-3d-contrib/profile-gitblock.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" />
 </a>
 
 </div>
