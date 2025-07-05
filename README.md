@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Simon 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software%20Engineer;Functional%20Programming%20Enthusiast;Java%20|%20Erlang%20|%20Haskell%20|%20Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Lover+of+Functional+Languages;Java+%7C+Erlang+%7C+Python" alt="Typing SVG" />
 </p>
 
 
