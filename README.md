@@ -15,6 +15,13 @@
 
 ---
 
+![Made with Haskell and ☕](https://img.shields.io/badge/Made%20with-Haskell%20and%20☕-purple?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Sipping%20coffee%20%F0%9F%8D%B5-green?style=flat-square)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+FP+Fanatic;Java+%7C+Haskell+%7C+Erlang+%7C+Python;Always+Compiling+Knowledge..." alt="Typing SVG" />
+</p>
 
 
 ## 🧠 About Me
