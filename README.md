@@ -43,12 +43,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p align="center">
-  <img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img title="Erlang" alt="Erlang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-plain.svg" width="40" height="40"/>
-  <img title="Haskell" alt="Haskell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40" height="40"/>
-  <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</p>
+[![GitHub Skyline](https://img.shields.io/badge/Skyline-3D%20Commit%20Graph-purple?style=flat-square&logo=github)](https://skyline.github.com/simonsimme)
+
 
 ---
 
