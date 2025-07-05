@@ -23,6 +23,11 @@
 
 ---
 
+## 🌱 Currently Learning
+
+- 🔍 LLM
+- 🧩 Algoritms
+- 💬 Reading: *Software Foundations*, *Designing Data-Intensive Applications*
 
 
 ## 🧰 Languages & Tools
