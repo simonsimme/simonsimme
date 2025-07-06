@@ -92,7 +92,7 @@
 
 - 📍 Based in **Gothenburg, Sweden**
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/simon-johansson-software-genius/)
-- 📧 simon@email.com (replace with your real one)
+- 📧 simonsimme@hotmail.se
 - 💼 Open to full-time roles, internships, research projects, and weird programming experiments
 
 ---
