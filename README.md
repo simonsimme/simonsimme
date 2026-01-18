@@ -67,24 +67,6 @@
 
 
 
----
-
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=simonsimme)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simonsimme&theme=monokai&column=6" />
-</div>
 
 ---
 
