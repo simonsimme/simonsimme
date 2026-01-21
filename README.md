@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Simon 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+FP+Fanatic;Java+%7C+Haskell+%7C+Erlang+%7C+Python;Always+Compiling+Knowledge..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+FP+Fanatic;Java+%7C+Haskell+%7C+Erlang+%7C+Python+go;Always+Compiling+Knowledge..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 - 🎓 CS graduate with a passion for **concurrent systems** and **type-safe programming**
 
-- 💬 Fluent in Java, Erlang, Haskell, Dafny, Python, and sarcasm 😄
+- 💬 Fluent in Java, Erlang, Haskell, go, Python, and sarcasm 😄
 
 ---
 
