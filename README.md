@@ -27,12 +27,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- 🔍 LLM
-- 🧩 Algorithms 
-- 💬 Reading: *Software Foundations*, *Designing Data-Intensive Applications*
-
 
 ## 🧰 Languages & Tools
 
@@ -68,15 +62,3 @@
 
 
 
----
-
-## 📫 Connect With Me
-
-- 📍 Based in **Gothenburg, Sweden**
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/simon-johansson-software-genius/)
-- 📧 simonsimme@hotmail.se
-- 💼 Open to full-time roles, internships, research projects, and weird programming experiments
-
----
-
-_Thanks for dropping by! If you scrolled this far, you should probably hire me._ 😎
